@@ -1,0 +1,468 @@
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 7.0
+translate
+250 300 0
+apply
+save
+000.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 17.0
+translate
+250 300 0
+apply
+save
+001.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 27.0
+translate
+250 300 0
+apply
+save
+002.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 37.0
+translate
+250 300 0
+apply
+save
+003.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 47.0
+translate
+250 300 0
+apply
+save
+004.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 57.0
+translate
+250 300 0
+apply
+save
+005.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 67.0
+translate
+250 300 0
+apply
+save
+006.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 77.0
+translate
+250 300 0
+apply
+save
+007.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 87.0
+translate
+250 300 0
+apply
+save
+008.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 97.0
+translate
+250 300 0
+apply
+save
+009.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 107.0
+translate
+250 300 0
+apply
+save
+010.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 117.00000000000001
+translate
+250 300 0
+apply
+save
+011.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 127.0
+translate
+250 300 0
+apply
+save
+012.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 137.0
+translate
+250 300 0
+apply
+save
+013.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 147.0
+translate
+250 300 0
+apply
+save
+014.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 157.0
+translate
+250 300 0
+apply
+save
+015.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 167.0
+translate
+250 300 0
+apply
+save
+016.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 177.0
+translate
+250 300 0
+apply
+save
+017.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 187.0
+translate
+250 300 0
+apply
+save
+018.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 197.0
+translate
+250 300 0
+apply
+save
+019.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 207.0
+translate
+250 300 0
+apply
+save
+020.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 217.0
+translate
+250 300 0
+apply
+save
+021.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 227.00000000000003
+translate
+250 300 0
+apply
+save
+022.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 236.99999999999997
+translate
+250 300 0
+apply
+save
+023.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 247.0
+translate
+250 300 0
+apply
+save
+024.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 257.0
+translate
+250 300 0
+apply
+save
+025.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 267.0
+translate
+250 300 0
+apply
+save
+026.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 277.0
+translate
+250 300 0
+apply
+save
+027.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 287.0
+translate
+250 300 0
+apply
+save
+028.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 297.0
+translate
+250 300 0
+apply
+save
+029.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 307.0
+translate
+250 300 0
+apply
+save
+030.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 317.0
+translate
+250 300 0
+apply
+save
+031.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 327.0
+translate
+250 300 0
+apply
+save
+032.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 337.0
+translate
+250 300 0
+apply
+save
+033.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 347.0
+translate
+250 300 0
+apply
+save
+034.png
+clear
+ident
+box
+0 0 0 160 160 160
+rotate
+x 30
+rotate
+y 357.0
+translate
+250 300 0
+apply
+save
+035.png
